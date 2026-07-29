@@ -1,2 +1,2 @@
 # Recom
-A re-commerce application platform to sell any devices.
+A re-commerce mobile application platform to sell any devices.
